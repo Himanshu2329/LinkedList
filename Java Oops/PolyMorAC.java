@@ -1,5 +1,7 @@
 // import javax.swing.plaf.synth.SynthSpinnerUI;
 
+// Polymorphism :- Many forms
+// funtion overloding :- ek hi class ke andr same name ke funtion bna dena agr same naam ke funtion to funtion ke argument alag hine chaiye funtion ke type alag hone chaiye vese ek void h to dusra void nhi hona chaiye
 public class PolyMorAC {
     public static void main(String[] args) {
         Student s1=new Student();
