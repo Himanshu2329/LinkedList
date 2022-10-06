@@ -5,7 +5,11 @@ public class SingleLevelInheriAC {
 }
 class shape{
     public void area() {
+
         System.out.println("display area");
+    }
+    shape(){
+        
     }
 }
 class eqi extends tri{
